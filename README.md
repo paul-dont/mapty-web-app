@@ -1,6 +1,6 @@
 # Mapty web API project
 
-This is a solution to the [Mapty web API project froms Jona's Schmedtmann JavaScript course](
+This is a solution to the Mapty web API project from Jona's Schmedtmann JavaScript course
 
 ## Table of contents
 
@@ -13,7 +13,7 @@ This is a solution to the [Mapty web API project froms Jona's Schmedtmann JavaSc
 
 ## Overview
 
-A Map API based on the leadlet API that stores data about gymnastic activities in the local storage.
+A Map API based on the leaflet API that stores data about gymnastic activities in the local storage.
 
 ### The challenge
 
